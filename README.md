@@ -1,5 +1,21 @@
-# 💫 About Me:
-⭐ Optimized GitHub Bio for Geetansh124<br><br>Web Developer | Learning C & Python (AI/ML) | Building Real-World Projects<br>🚀 Passionate about Frontend Development (HTML, CSS) and exploring Artificial Intelligence.<br>💡 Created an Amazon E-commerce Clone & multiple Python/C learning projects.<br>🎓 Campus Ambassador at SmartEd Innovation<br>📘 Currently improving skills in Data Science, Machine Learning & Dev Tools (Git/GitHub).<br>👨‍💻 Open to collaboration on web apps, AI/ML projects, and open-source contributions.<br><br>Web Developer | Learning C & Python | AI/ML Enthusiast<br>Campus Ambassador @ SmartEd Innovation • Building projects & exploring AI.<br><br><br><br>Frontend Developer<br><br>Python Learner<br><br>C Programmer<br><br>AI/ML Beginner<br><br>Open Source<br><br>Web Projects<br><br>Git & GitHub
+# 💫 About Me:I’m an aspiring AI/ML engineer currently focused on building strong foundations in Machine Learning, Deep Learning, and practical AI development. I enjoy turning concepts into real projects instead of staying stuck in tutorial loops.
+
+My current learning path includes Python, NumPy, Pandas, Scikit-learn, TensorFlow, data preprocessing, model building, and deployment fundamentals. I’ve worked on projects like Movie Recommendation Systems and continuously explore new areas in AI, data science, and software development.
+
+I’m particularly interested in:
+
+Machine Learning & Deep Learning
+Recommendation Systems
+Neural Networks
+Data Analysis & Visualization
+AI-powered Applications
+
+Right now, my focus is simple:
+Build projects. Improve problem-solving. Gain real-world skills. Become industry-ready.
+
+I believe consistency and execution matter more than collecting certificates or watching endless courses.
+
+Open to collaborating on AI/ML projects, learning opportunities, and tech discussions.
 
 
 ## 🌐 Socials:
