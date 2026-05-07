@@ -1,4 +1,5 @@
-# 💫 About Me:I’m an aspiring AI/ML engineer currently focused on building strong foundations in Machine Learning, Deep Learning, and practical AI development. I enjoy turning concepts into real projects instead of staying stuck in tutorial loops.
+# 💫 About Me:
+I’m an aspiring AI/ML engineer currently focused on building strong foundations in Machine Learning, Deep Learning, and practical AI development. I enjoy turning concepts into real projects instead of staying stuck in tutorial loops.
 
 My current learning path includes Python, NumPy, Pandas, Scikit-learn, TensorFlow, data preprocessing, model building, and deployment fundamentals. I’ve worked on projects like Movie Recommendation Systems and continuously explore new areas in AI, data science, and software development.
 
